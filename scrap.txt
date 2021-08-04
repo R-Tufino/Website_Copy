@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>Richie's Website</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <div id="bar_div">
+       <img class="items" src="logo.png">
+       <a href="#"><div class="items">Home</div></a>
+       <a href="#"><div class="items">Portfolio</div></a>
+       <a href="#"><div class="items">Contact Info</div></a>
+       <a href="https://www.linkedin.com/in/richie-tufino-61b412218/"><div class="items">Linkin</div></a>
+       <a href="https://www.instagram.com/tufiino2022?r=nametag"><div class="items">Instagram</div></a>
+   </div>
+   <div id="background">
+      
+         <div id="Group">
+            <h1 class="Header">About Me</h1>
+         <p class="text">
+            I am a 16 year old boy who was born in the United States with both of my parents being from Mexico. I have a pet dog called Duke who I take to the park whenever I have the time or feel stressed. While I am generally shy and introverted around others, I care for them more than they think and take them into great consideration. I would try to help others to the best of my ability whether they ask for it or not. Despite being so quiet, I am extremely stubborn and persistent when I set my eyes on something. Whether I fail horribly each and every time, I continue to move forward to find an answer to achieve my goal.      
+         </p>
+         </div>
+      <div id="half1">
+         <div id="Group1">
+            <h1 class="Header">Education</h1>
+         <p class="text">
+            <span id="special">Jamaica Gateway to the Sciences,</span> 167-01 Gothic Dr, Queens, NY 11432
+         </p>
+         <p id="date" class="text">
+            September 2018 -
+         </p>
+            <h1 id="Work" class="Header">Relevant Coursework:</h1>
+         <p id="Classes" class="text">
+            AP English Literature and Composition, AP United States History, AP Calculus AB, Queens College Now Math Course
+         </p>
+         </div>
+         <div id="Group1">
+            <h1 class="Header">Interests and Activities:</h1>
+               <ul class="list">
+                  <li>Student Government</li>
+                  <li>Fencing Team</li>
+                  <li>Computer Programming</li>
+               </ul>
+         </div>
+      </div>
+
+      <div id="half2">
+         <div id="Group2">
+            <h1 class="Header">Skills and Certifications</h1>
+               <h2 class="Skill">Technical Skills:</h2>
+               <ul class="list2">
+                <li>Computer Programming</li>
+               </ul>
+               <h2 class="Skill">Certifications:</h2>
+               <ul class="list2">
+                
+               </ul>
+               <h2 class="Skill">Languages:</h2>
+               <ul class="list2">
+                  <li>English</li>
+                  <li>Spanish</li>
+               </ul>
+         </div>
+         <div id="Group2">
+            <h1 class="Header">Experience</h1>
+            <p id="Classes" class="text">
+            
+            </p>
+         </div>
+      </div>
+   </div>
+</body>
+</html>
